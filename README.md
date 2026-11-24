@@ -1,4 +1,5 @@
-# Ai-Assitant-Report
+# AI assistant for near-miss reporting
+
 
 ## Pipleline
 
