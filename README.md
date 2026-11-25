@@ -3,10 +3,12 @@
 
 ## Pipleline
 
-1. Login 
-2. Language selection.
-3. Voice to text, text, image.
-4. Upload image or video.
-5. Agent 1 write the report with prdefined  prompt.
-6. Agent 2 recheack the report.
-7. 
+1. Design webapp
+2.  Login 
+3. Language selection.
+4. Voice to text, text, image,upload speech.
+5. Upload image.
+6. Agent 1 receive the input analyze it and ask necessary questions,write the report with predefined prompt.
+7. Agent 2 recheack the report, if it is fine send it to user for approval.
+8. Save the final report to database and can export as pdf , send to specific address.
+9. 
