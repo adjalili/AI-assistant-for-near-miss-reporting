@@ -11,4 +11,6 @@
 6. Agent 1 receive the input analyze it and ask necessary questions,write the report with predefined prompt.
 7. Agent 2 recheack the report, if it is fine send it to user for approval.
 8. Save the final report to database and can export as pdf , send to specific address.
-9. 
+
+# Deep seek
+We use deep seek api key from server for agent.
